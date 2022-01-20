@@ -1,0 +1,3 @@
+- The **exp1** is the first experiment: A simple episodic MDP.
+- The **exp2** is the second experiment: Robustness under increasing reward variance in Mountain Car Mountain Car
+- The **exp2** is the third experiment:  Results on Benchmark Environments
